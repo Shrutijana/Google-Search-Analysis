@@ -1,2 +1,2 @@
 # Google-Search-Analysis
-Google search trends are explored with Python and pytrends. Daily patterns are analyzed, top countries interested in specific topics are identified, and trends are visualized. Insights into user behaviors and emerging topics on the world's leading search engine are gained.
+This project focuses on leveraging Python and the pytrends library to analyze Google search trends. By tapping into Google Trends data, the project aims to uncover insights into daily search patterns and the popularity of specific topics. Through visualization and analysis, users can gain a deeper understanding of user behaviors and emerging trends on the world's leading search engine platform.
